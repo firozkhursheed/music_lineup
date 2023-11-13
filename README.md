@@ -4,7 +4,7 @@
 ## Demo
 
 ### Sample
-![Demo Video](./music_line_up.gif)
+![Demo Video](./musical_lineup.gif)
 
 ### Image
 ![Demo Image](./music_line_up.jpg)
