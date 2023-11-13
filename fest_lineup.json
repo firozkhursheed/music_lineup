@@ -1,0 +1,834 @@
+[
+    [
+        {
+            "name": "Model/Actriz",
+            "id": 1,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-09-30T14:00",
+            "end": "2023-09-30T14:50",
+            "tags": [],
+            "artist_ids": [
+                1
+            ],
+            "artist_info": "Model/Actriz: Model/Actriz is an avant-garde rock band known for their electrifying performances and post-punk influences."
+        },
+        {
+            "name": "Young Fathers",
+            "id": 2,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-09-30T15:00",
+            "end": "2023-09-30T15:50",
+            "tags": [],
+            "artist_ids": [
+                2
+            ],
+            "artist_info": "Young Fathers: Young Fathers are a Mercury Prize-winning Scottish band recognized for their eclectic blend of hip-hop, pop, and electronic music."
+        },
+        {
+            "name": "Hot Chip",
+            "id": 3,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-09-30T16:00",
+            "end": "2023-09-30T16:50",
+            "tags": [],
+            "artist_ids": [
+                3
+            ],
+            "artist_info": "Hot Chip: Hot Chip is a British indie electronic band celebrated for their catchy dance-pop hits and innovative sound."
+        },
+        {
+            "name": "FKJ",
+            "id": 4,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-09-30T17:00",
+            "end": "2023-09-30T17:50",
+            "tags": [],
+            "artist_ids": [
+                4
+            ],
+            "artist_info": "FKJ: FKJ, or French Kiwi Juice, is a French artist and multi-instrumentalist acclaimed for his soulful and improvisational live performances"
+        },
+        {
+            "name": "Nelly Furtado",
+            "id": 5,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-09-30T18:00",
+            "end": "2023-09-30T18:50",
+            "tags": [],
+            "artist_ids": [
+                0
+            ],
+            "artist_info": "Nelly Furtado: Nelly Furtado is a Grammy Award-winning artist with a diverse discography that spans pop, folk, and R&B."
+        },
+        {
+            "name": "Polo & Pan",
+            "id": 6,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-09-30T19:00",
+            "end": "2023-09-30T20:00",
+            "tags": [],
+            "artist_ids": [
+                5
+            ],
+            "artist_info": "Polo & Pan: Polo & Pan are a French electronic music duo known for their tropical and mythical themes in dance music."
+        },
+        {
+            "name": "Eric Prydz",
+            "id": 7,
+            "summary": "Presents: HOLO",
+            "location": "pier_stage",
+            "date": "2023-09-30T20:30",
+            "end": "2023-09-30T22:00",
+            "tags": [],
+            "artist_ids": [
+                6
+            ],
+            "artist_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Eric_Prydz_at_Glastonbury_2009.jpg/440px-Eric_Prydz_at_Glastonbury_2009.jpg",
+            "artist_info": "Eric Prydz: Eric Prydz is a Swedish DJ and producer revered for his progressive house tracks and pioneering visual shows, like HOLO."
+        },
+        {
+            "name": "Salute",
+            "id": 101,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T14:00",
+            "end": "2023-09-30T14:50",
+            "tags": [],
+            "artist_ids": [
+                7
+            ],
+            "artist_info": "Salute: Salute is an up-and-coming electronic producer known for his distinct blend of R&B, house, and UK garage sounds."
+        },
+        {
+            "name": "The Dare",
+            "id": 102,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T15:00",
+            "end": "2023-09-30T15:40",
+            "tags": [],
+            "artist_ids": [
+                8
+            ],
+            "artist_info": "The Dare is a fresh face in the music scene, making waves with their energetic and captivating indie rock sound."
+        },
+        {
+            "name": "Totally Enormous Extinct Dinosaurs",
+            "id": 103,
+            "summary": "(Live)",
+            "location": "crane_stage",
+            "date": "2023-09-30T15:40",
+            "end": "2023-09-30T16:45",
+            "tags": [],
+            "artist_ids": [
+                9
+            ],
+            "artist_info": "Totally Enormous Extinct Dinosaurs: Totally Enormous Extinct Dinosaurs, the stage name for Orlando Higginbottom, is an English electronic music producer known for his eclectic and lively performances."
+        },
+        {
+            "name": "Dom Dolla",
+            "id": 104,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T17:00",
+            "end": "2023-09-30T18:00",
+            "tags": [],
+            "artist_ids": [
+                10
+            ],
+            "artist_info": "Dom Dolla is an Australian house music producer and DJ, earning global recognition for his infectious dance floor anthems."
+        },
+        {
+            "name": "Major Lazer B2B Major League DJz",
+            "id": 105,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T18:00",
+            "end": "2023-09-30T19:00",
+            "tags": [],
+            "artist_ids": [
+                11,
+                12
+            ],
+            "artist_info": "Major Lazer is an electronic dance music trio famous for their fusion of genres, paired here with Major League DJz, a South African duo known for their contributions to the amapiano scene."
+        },
+        {
+            "name": "Maddy Maia",
+            "id": 106,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T19:00",
+            "end": "2023-09-30T19:30",
+            "tags": [],
+            "artist_ids": [
+                13
+            ],
+            "artist_image": "https://acehotel.com/wp-content/uploads/2023/01/maddy-maia-rLRqiW.tmp_.jpg",
+            "artist_info": "Producer, DJ, A&R for iconic British indie label Ninja Tune & label head of new womxn focused !K7 imprint SOS Music - London born Los Angeles based Maddy Maia has many strings to her bow, and makes dark, romantic, acid infused house."
+        },
+        {
+            "name": "Jai Paul",
+            "id": 107,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T19:30",
+            "end": "2023-09-30T20:20",
+            "tags": [],
+            "artist_ids": [
+                14
+            ],
+            "artist_info": "Jai Paul is a British songwriter and record producer known for his mysterious persona and influential minimalistic electronic sound."
+        },
+        {
+            "name": "Maddy Maia",
+            "id": 108,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T20:20",
+            "end": "2023-09-30T20:40",
+            "tags": [],
+            "artist_ids": [
+                13
+            ],
+            "artist_image": "https://acehotel.com/wp-content/uploads/2023/01/maddy-maia-rLRqiW.tmp_.jpg",
+            "artist_info": "Producer, DJ, A&R for iconic British indie label Ninja Tune & label head of new womxn focused !K7 imprint SOS Music - London born Los Angeles based Maddy Maia has many strings to her bow, and makes dark, romantic, acid infused house."
+        },
+        {
+            "name": "Purple Disco Machine",
+            "id": 109,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T20:40",
+            "end": "2023-09-30T21:30",
+            "tags": [],
+            "artist_ids": [
+                15
+            ],
+            "artist_info": "Purple Disco Machine is a German DJ and producer specializing in disco and funk-infused house music, with a flair for high-energy DJ sets."
+        },
+        {
+            "name": "Maddy Maia",
+            "id": 110,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T21:30",
+            "end": "2023-09-30T21:55",
+            "tags": [],
+            "artist_ids": [
+                13
+            ],
+            "artist_image": "https://acehotel.com/wp-content/uploads/2023/01/maddy-maia-rLRqiW.tmp_.jpg",
+            "artist_info": "Producer, DJ, A&R for iconic British indie label Ninja Tune & label head of new womxn focused !K7 imprint SOS Music - London born Los Angeles based Maddy Maia has many strings to her bow, and makes dark, romantic, acid infused house."
+        },
+        {
+            "name": "Underworld",
+            "id": 111,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-09-30T21:55",
+            "end": "2023-09-30T22:55",
+            "tags": [],
+            "artist_ids": [
+                16
+            ],
+            "artist_info": "Underworld is an iconic British electronic group known for their seminal contributions to techno and dance music since the 1980s."
+        },
+        {
+            "name": "Yung Singh",
+            "id": 201,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-09-30T14:00",
+            "end": "2023-09-30T15:00",
+            "tags": [],
+            "artist_ids": [
+                17
+            ],
+            "artist_info": "Yung Singh is a DJ rising in popularity for his innovative mixes that blend Punjabi folk music with electronic beats."
+        },
+        {
+            "name": "LF System",
+            "id": 202,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-09-30T15:00",
+            "end": "2023-09-30T16:00",
+            "tags": [],
+            "artist_ids": [
+                18
+            ],
+            "artist_info": "LF System is a Scottish DJ and producer duo making waves in the dance music scene with their catchy and upbeat house tracks."
+        },
+        {
+            "name": "Barry Can't Swim",
+            "id": 203,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-09-30T16:00",
+            "end": "2023-09-30T17:00",
+            "tags": [],
+            "artist_ids": [
+                19
+            ],
+            "artist_info": "Barry Can't Swim, an emerging Scottish artist, offers a unique blend of jazz-inflected electronic music that's gaining a dedicated following."
+        },
+        {
+            "name": "Overmono",
+            "id": 204,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-09-30T17:10",
+            "end": "2023-09-30T18:10",
+            "tags": [],
+            "artist_ids": [
+                29
+            ],
+            "artist_info": "Overmono, a collaborative project between two British brothers, is known for their inventive approach to electronic music, merging ambient textures with rhythmic complexity."
+        },
+        {
+            "name": "Jon Hopkins",
+            "id": 205,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-09-30T18:20",
+            "end": "2023-09-30T19:20",
+            "tags": [],
+            "artist_ids": [
+                21
+            ],
+            "artist_info": "Jon Hopkins is an English musician and producer celebrated for his atmospheric and deeply immersive electronic music."
+        },
+        {
+            "name": "DJ Koze",
+            "id": 206,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-09-30T19:30",
+            "end": "2023-09-30T20:45",
+            "tags": [],
+            "artist_ids": [
+                22
+            ],
+            "artist_info": "DJ Koze, a German DJ and producer, is known for his adventurous and psychedelic approach to electronic music."
+        },
+        {
+            "name": "Chris Lake B2b Armand Van Helden",
+            "id": 207,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-09-30T20:45",
+            "end": "2023-09-30T22:45",
+            "tags": [],
+            "artist_ids": [
+                23,
+                24
+            ],
+            "artist_info": "Chris Lake, an English DJ/producer, is known for his house music anthems and is teaming up here with Armand Van Helden, an American DJ and producer with a prolific career in dance music."
+        },
+        {
+            "name": "Elio",
+            "id": 401,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-09-30T14:05",
+            "end": "2023-09-30T14:45",
+            "tags": [],
+            "artist_ids": [
+                25
+            ],
+            "artist_info": "Elio is an up-and-coming pop artist with a sound that encapsulates the emotional landscape of the modern youth."
+        },
+        {
+            "name": "Eliza Roze",
+            "id": 402,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-09-30T14:55",
+            "end": "2023-09-30T15:55",
+            "tags": [],
+            "artist_ids": [
+                26
+            ],
+            "artist_info": "Eliza Roze is a rising star whose powerful vocals and emotive performances are capturing hearts in the indie music scene."
+        },
+        {
+            "name": "Two Shell",
+            "id": 403,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-09-30T16:00",
+            "end": "2023-09-30T17:00",
+            "tags": [],
+            "artist_ids": [
+                27
+            ],
+            "artist_info": "Two Shell is a mysterious electronic music duo from the UK, making a name for themselves with their innovative sounds and anonymity."
+        },
+        {
+            "name": "Chromeo",
+            "id": 404,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-09-30T17:30",
+            "end": "2023-09-30T18:20",
+            "tags": [],
+            "artist_ids": [
+                28
+            ],
+            "artist_info": "Chromeo is a Canadian electro-funk duo known for their catchy hooks, funky guitar riffs, and humorous lyrics."
+        },
+        {
+            "name": "SBTRKT",
+            "id": 405,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-09-30T18:45",
+            "end": "2023-09-30T19:35",
+            "tags": [],
+            "artist_ids": [
+                29
+            ],
+            "artist_info": "SBTRKT is a UK-based producer and musician recognized for his distinctive tribal masks and a unique blend of dubstep, R&B, and electronic music."
+        },
+        {
+            "name": "Cobrah",
+            "id": 406,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-09-30T20:00",
+            "end": "2023-09-30T20:50",
+            "tags": [],
+            "artist_ids": [
+                30
+            ],
+            "artist_info": "No Info Available"
+        },
+        {
+            "name": "Flying Lotus",
+            "id": 407,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-09-30T21:20",
+            "end": "2023-09-30T22:20",
+            "tags": [],
+            "artist_ids": [
+                31
+            ],
+            "artist_info": "Fly Lo started off on Adult Swim making the bumpers."
+        }
+    ],
+    [
+        {
+            "name": "Very Nice Person",
+            "id": 1001,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-10-01T14:00",
+            "end": "2023-10-01T14:40",
+            "tags": [],
+            "artist_ids": [
+                1001
+            ],
+            "artist_info": "Very Nice Person is an up-and-coming act, bringing an engaging and heartfelt performance to the pier_stage."
+        },
+        {
+            "name": "Charlotte Adigeriy & Boris Pupul",
+            "id": 1002,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-10-01T14:50",
+            "end": "2023-10-01T15:40",
+            "tags": [],
+            "artist_ids": [
+                1000,
+                1002
+            ],
+            "artist_info": "Charlotte Adigeriy & Boris Pupul blend unique styles to create an avant-garde musical experience at the pier_stage."
+        },
+        {
+            "name": "Little Simz",
+            "id": 1003,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-10-01T15:50",
+            "end": "2023-10-01T16:40",
+            "tags": [],
+            "artist_ids": [
+                1003
+            ],
+            "artist_info": "Little Simz, known for her introspective lyricism and dynamic flow, delivers an electrifying set on the pier_stage."
+        },
+        {
+            "name": "Thundercat",
+            "id": 1004,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-10-01T16:50",
+            "end": "2023-10-01T17:40",
+            "tags": [],
+            "artist_ids": [
+                1004
+            ],
+            "artist_info": "Thundercat fuses virtuosic bass playing with futuristic funk, performing his complex grooves at the pier_stage."
+        },
+        {
+            "name": "Rina Sawayama",
+            "id": 1005,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-10-01T17:50",
+            "end": "2023-10-01T18:40",
+            "tags": [],
+            "artist_ids": [
+                1005
+            ],
+            "artist_info": "Rina Sawayama combines pop sensibilities with R&B and nu-metal influences, showcasing her versatility on the pier_stage."
+        },
+        {
+            "name": "Labrinth",
+            "id": 1006,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-10-01T19:00",
+            "end": "2023-10-01T20:00",
+            "tags": [],
+            "artist_ids": [
+                1006
+            ],
+            "artist_info": "Labrinth is a multifaceted British musician known for his eclectic and emotive music style, set to perform on the pier_stage."
+        },
+        {
+            "name": "Skrillex",
+            "id": 1007,
+            "summary": "",
+            "location": "pier_stage",
+            "date": "2023-10-01T20:30",
+            "end": "2023-10-01T22:00",
+            "tags": [],
+            "artist_ids": [
+                1007
+            ],
+            "artist_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/From_First_To_Last_-_Emo_Nite_2_-_PH_Carl_Pocket_%28cropped%29.jpg/440px-From_First_To_Last_-_Emo_Nite_2_-_PH_Carl_Pocket_%28cropped%29.jpg",
+            "artist_info": "Skrillex, a pivotal figure in electronic dance music, known for his seismic drops, takes the pier_stage with his explosive beats."
+        },
+        {
+            "name": "Azzecca",
+            "id": 1101,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-10-01T14:00",
+            "end": "2023-10-01T15:00",
+            "tags": [],
+            "artist_ids": [
+                1101
+            ],
+            "artist_info": "Azzecca brings fresh energy and innovative electronic sounds to the crane_stage."
+        },
+        {
+            "name": "Jayda G",
+            "id": 1102,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-10-01T15:00",
+            "end": "2023-10-01T16:00",
+            "tags": [],
+            "artist_ids": [
+                1102
+            ],
+            "artist_info": "Jayda G spins a vibrant mix of house and disco, infusing the crane_stage with her infectious rhythms."
+        },
+        {
+            "name": "Pabllo Vittar",
+            "id": 1103,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-10-01T16:20",
+            "end": "2023-10-01T17:00",
+            "tags": [],
+            "artist_ids": [
+                1103
+            ],
+            "artist_info": "Pabllo Vittar, the Brazilian drag queen and pop sensation, brings her iconic hits and flamboyant performance to the crane_stage."
+        },
+        {
+            "name": "Masego",
+            "id": 1104,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-10-01T17:30",
+            "end": "2023-10-01T18:20",
+            "tags": [],
+            "artist_ids": [
+                1104
+            ],
+            "artist_info": "Masego, the self-titled 'TrapHouseJazz' artist, delivers smooth vocals and saxophone-laden beats at the crane_stage."
+        },
+        {
+            "name": "Basement Jaxx",
+            "id": 1105,
+            "summary": "DJ Set",
+            "location": "crane_stage",
+            "date": "2023-10-01T18:40",
+            "end": "2023-10-01T19:40",
+            "tags": [],
+            "artist_ids": [
+                1105
+            ],
+            "artist_info": "Basement Jaxx are veterans of the electronic music scene, known for their eclectic and energetic DJ sets at the crane_stage."
+        },
+        {
+            "name": "Jyoty",
+            "id": 1106,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-10-01T19:40",
+            "end": "2023-10-01T20:25",
+            "tags": [],
+            "artist_ids": [
+                1106
+            ],
+            "artist_info": "Jyoty, the rising DJ and radio host, brings a curated blend of global beats to the crane_stage."
+        },
+        {
+            "name": "Tokischa",
+            "id": 107,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-10-01T20:45",
+            "end": "2023-10-01T21:25",
+            "tags": [],
+            "artist_ids": [
+                1107
+            ],
+            "artist_info": "Tokischa's raw and unapologetic reggaeton style adds a powerful punch to the crane_stage lineup."
+        },
+        {
+            "name": "The Blaze",
+            "id": 1108,
+            "summary": "",
+            "location": "crane_stage",
+            "date": "2023-10-01T21:55",
+            "end": "2023-10-01T22:55",
+            "tags": [],
+            "artist_ids": [
+                1108
+            ],
+            "artist_info": "The Blaze stands out with their cinematic electronic music, creating an immersive atmosphere at the crane_stage."
+        },
+        {
+            "name": "Chaos in the CBD",
+            "id": 1201,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-10-01T14:00",
+            "end": "2023-10-01T15:00",
+            "tags": [],
+            "artist_ids": [
+                1201
+            ],
+            "artist_info": "Chaos in the CBD, New Zealand-born brothers, bring their deep house grooves to the intimate setting of the warehouse."
+        },
+        {
+            "name": "Sam Gellaitry",
+            "id": 1202,
+            "summary": "DJ",
+            "location": "warehouse",
+            "date": "2023-10-01T15:00",
+            "end": "2023-10-01T16:00",
+            "tags": [],
+            "artist_ids": [
+                1202
+            ],
+            "artist_info": "Sam Gellaitry's DJ set promises a journey through his eclectic electronic sounds at the warehouse."
+        },
+        {
+            "name": "Skin on Skin",
+            "id": 1203,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-10-01T16:00",
+            "end": "2023-10-01T17:00",
+            "tags": [],
+            "artist_ids": [
+                1203
+            ],
+            "artist_info": "Skin on Skin ignites the warehouse with raw, underground dance music and a gritty production style."
+        },
+        {
+            "name": "Avalon Emerson",
+            "id": 1204,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-10-01T17:00",
+            "end": "2023-10-01T18:00",
+            "tags": [],
+            "artist_ids": [
+                1204
+            ],
+            "artist_info": "Avalon Emerson showcases her innovative and genre-blending DJ skills at the warehouse."
+        },
+        {
+            "name": "Todd Terje",
+            "id": 1205,
+            "summary": "DJ",
+            "location": "warehouse",
+            "date": "2023-10-01T18:00",
+            "end": "2023-10-01T19:00",
+            "tags": [],
+            "artist_ids": [
+                1205
+            ],
+            "artist_info": "Todd Terje's DJ set at the warehouse is expected to be a disco-infused dance party with Norwegian flair."
+        },
+        {
+            "name": "Bonobo",
+            "id": 1206,
+            "summary": "DJ",
+            "location": "warehouse",
+            "date": "2023-10-01T19:00",
+            "end": "2023-10-01T20:00",
+            "tags": [],
+            "artist_ids": [
+                1206
+            ],
+            "artist_info": "Bonobo's DJ set at the warehouse is an anticipated mix of downtempo, trip-hop, and world music influences."
+        },
+        {
+            "name": "Charlotte de Witte",
+            "id": 1207,
+            "summary": "",
+            "location": "warehouse",
+            "date": "2023-10-01T20:00",
+            "end": "2023-10-01T21:15",
+            "tags": [],
+            "artist_ids": [
+                1207
+            ],
+            "artist_info": "Charlotte de Witte brings her signature intense techno beats to the raw energy of the warehouse."
+        },
+        {
+            "name": "Carl Cox",
+            "id": 1208,
+            "summary": "Hybrid set",
+            "location": "warehouse",
+            "date": "2023-10-01T21:15",
+            "end": "2023-10-01T22:45",
+            "tags": [],
+            "artist_ids": [
+                1208
+            ],
+            "artist_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/CarlCox.jpg/440px-CarlCox.jpg",
+            "artist_info": "Carl Cox, an iconic figure in techno, presents a hybrid set showcasing his legendary DJ skills at the warehouse."
+        },
+        {
+            "name": "Winston Surfshirt",
+            "id": 1401,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-10-01T14:00",
+            "end": "2023-10-01T14:45",
+            "tags": [],
+            "artist_ids": [
+                1401
+            ],
+            "artist_info": "Winston Surfshirt offers a smooth blend of hip-hop and surf-rock vibes."
+        },
+        {
+            "name": "Yeule",
+            "id": 1402,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-10-01T15:00",
+            "end": "2023-10-01T15:45",
+            "tags": [],
+            "artist_ids": [
+                1402
+            ],
+            "artist_info": "Yule, the queen of neo-soul, graces the cafe_stage with her rich vocals and spiritual songwriting."
+        },
+        {
+            "name": "Jockstrap",
+            "id": 1403,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-10-01T16:00",
+            "end": "2023-10-01T17:00",
+            "tags": [],
+            "artist_ids": [
+                1403
+            ],
+            "artist_info": "Placeholder for Jockstrap's artist information."
+        },
+        {
+            "name": "Kavinsky",
+            "id": 1404,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-10-01T17:05",
+            "end": "2023-10-01T17:55",
+            "tags": [],
+            "artist_ids": [
+                1404
+            ],
+            "artist_info": "Placeholder for Kavinsky's artist information."
+        },
+        {
+            "name": "2manyDJs",
+            "id": 1405,
+            "summary": "(live)",
+            "location": "ship_tent",
+            "date": "2023-10-01T18:05",
+            "end": "2023-10-01T18:55",
+            "tags": [],
+            "artist_ids": [
+                1405
+            ],
+            "artist_info": "Placeholder for 2manyDJs' artist information."
+        },
+        {
+            "name": "Kenny Beats",
+            "id": 1406,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-10-01T19:05",
+            "end": "2023-10-01T19:55",
+            "tags": [],
+            "artist_ids": [
+                1406
+            ],
+            "artist_info": "Placeholder for Kenny Beats' artist information."
+        },
+        {
+            "name": "Roisin Murphy",
+            "id": 1407,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-10-01T20:20",
+            "end": "2023-10-01T21:10",
+            "tags": [],
+            "artist_ids": [
+                1407
+            ],
+            "artist_info": "Placeholder for Roisin Murphy's artist information."
+        },
+        {
+            "name": "Little Dragon",
+            "id": 1408,
+            "summary": "",
+            "location": "ship_tent",
+            "date": "2023-10-01T21:35",
+            "end": "2023-10-01T22:25",
+            "tags": [],
+            "artist_ids": [
+                1408
+            ],
+            "artist_info": "Placeholder for Little Dragon's artist information."
+        }
+    ]
+]
