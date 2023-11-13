@@ -44,6 +44,7 @@ struct FestivalLineupView: View {
                         
                         ScrollView(.horizontal, showsIndicators: false) {
                             HStack(spacing: itemSpacing) {
+                                // TODO: Repleace it with reusable view, right now List view does not support horizontal scrolling
                                 ForEach(viewModel.artists, id: \.uniqueIdentifier) { artist in
                                     GeometryReader { geo in
                                         ArtistCardView(artist: artist)

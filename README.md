@@ -17,6 +17,9 @@
 ## Overview
 The Festival Lineup App is designed to showcase artists performing at a music festival. The app is built using Swift and SwiftUI, and it adopts the RIBs (Router, Interactor, Builder) architecture pattern to organize and manage its components and flows.
 
+## Pending
+Replace ScrolView ForEach with reusable view, right now List view does not support horizontal scrolling. As it's a sample app, this step is skipped
+
 ## RIBs Architecture
 RIBs (Router, Interactor, Builder) is an architectural pattern that aims to provide a clear separation of concerns and a scalable approach to building complex applications. In this app, the RIBs architecture is implemented as follows:
 
@@ -46,15 +49,13 @@ RIBs (Router, Interactor, Builder) is an architectural pattern that aims to prov
 
 ## Usage
 
-To start the application, create an instance of the `FestivalLineupBuilder`, build the components, and start the router:
+Run
+```python3 -m http.server```
+from the root of the project folder. This would use `fest_lineup.json` as the data.
+You can update the NetworkConfig file if base url is different from "http://localhost:8000/"
 
-```swift
-let builder = FestivalLineupBuilder()
-let router = builder.build()
-router.start()
-```
+Next - run the xcode project
 
-This will initialize and display the Festival Lineup view, loading and presenting the lineup data.
 
 ## Network Layer
 The network layer is managed by `NetworkManager`, which performs requests and handles responses. It integrates with the `FestivalLineupService` to fetch data.
